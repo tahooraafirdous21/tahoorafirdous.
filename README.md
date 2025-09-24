@@ -1,3 +1,3 @@
 # tahoorafirdous.
-this is my first git reprisetary
+this is my first git reprository
 
